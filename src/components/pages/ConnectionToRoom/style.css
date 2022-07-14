@@ -1,0 +1,12 @@
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: 'center';
+  align-items: center;
+}
+
+.video {
+  min-width: 80%;
+  margin: 0 auto 20px;
+  display: block;
+}

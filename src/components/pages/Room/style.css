@@ -1,0 +1,10 @@
+.video {
+  min-width: 80%;
+  margin: 0 auto 20px;
+  display: block;
+}
+.close-button {
+  margin: 0 auto 20px;
+  min-width: 300px;
+  display: block;
+}
